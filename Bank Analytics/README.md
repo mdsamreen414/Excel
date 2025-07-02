@@ -45,6 +45,6 @@ This project showcases the complete analysis and visualization of bank loan data
 ## 🔗 Quick Access
 
 - 📄 [KPIs Summary](https://github.com/mdsamreen414/Excel/blob/main/Bank%20Analytics/KPIs%20Summary.txt)  
-- 🖼️ [Dashboard Screenshot](https://github.com/mdsamreen414/Excel/blob/main/Bank%20Analytics/Screenshot.png?raw=true)
+- 🖼️ [Dashboard Screenshot](https://github.com/mdsamreen414/Excel/blob/main/Bank%20Analytics/Screenshot.png)
 
 
