@@ -83,4 +83,4 @@ The KPI dashboard helped:
 ## 🔗 Quick Navigation
 
  - 🖼️ [README](https://github.com/mdsamreen414/Excel/blob/main/Bank%20Analytics/README.md)
-- 🖼️ [Dashboard Screenshot](https://github.com/mdsamreen414/Excel/blob/main/Bank%20Analytics/Screenshot.png?raw=true)
+- 🖼️ [Dashboard Screenshot](https://github.com/mdsamreen414/Excel/blob/main/Bank%20Analytics/Screenshot.png)
