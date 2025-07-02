@@ -4,39 +4,20 @@ This project showcases a detailed loan data analysis built entirely in Microsoft
 
 ---
 
-## 🧠 Work Done in Excel
 
-### 1. 🧹 Data Preparation
-- Cleaned raw data by removing duplicates and handling missing values.
-- Standardized fields using Excel formulas like `IF`, `VLOOKUP`, `TEXT`, and `CONCATENATE`.
-- Created derived columns for Age Groups, Loan Duration, etc.
-
-### 2. 📊 Pivot Tables & Charts
-- Created pivot tables to group data by Grade, Age Group, Product Type, Purpose, and Religion.
-- Used charts (bar, line, pie) to visually analyze trends across years and segments.
-
-### 3. 🟥 KPI Design
+###  🟥 KPI Design
 - Created KPI cards for:
   - Total Loans
   - Revenue Generated
   - Funded Amount
   - Collections
   - Interest Earned
-- Applied conditional formatting to highlight critical values.
 
-### 4. 🖼️ Dashboard Creation
+### 🖼️ Dashboard Creation
 - Used slicers to filter data interactively (by year, grade, loan purpose, age group, etc.).
 - Combined visuals, pivot summaries, and KPIs into a single dashboard sheet.
 
 ---
-
-## 🔗 Quick Navigation
-
-- 📊 [KPIs Summary](https://github.com/mdsamreen414/Excel/blob/main/Bank%20Analytics/KPIs%20Summary.txt)  
-- 🖼️ [Dashboard Screenshot](https://github.com/mdsamreen414/Excel/blob/main/Bank%20Analytics/Screenshot.png?raw=true)
-
----
-
 
 ## 📈 KPI Summary – Bank Loan Analytics
 
@@ -98,3 +79,8 @@ The KPI dashboard helped:
 - Support decisions around strategy, targeting, and diversification
 
 
+
+## 🔗 Quick Navigation
+
+ - 🖼️ [README](https://github.com/mdsamreen414/Excel/blob/main/Bank%20Analytics/README.md)
+- 🖼️ [Dashboard Screenshot](https://github.com/mdsamreen414/Excel/blob/main/Bank%20Analytics/Screenshot.png?raw=true)
