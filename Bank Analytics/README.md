@@ -47,4 +47,13 @@ This project showcases the complete analysis and visualization of bank loan data
 - 📄 [KPIs Summary](https://github.com/mdsamreen414/Excel/blob/main/Bank%20Analytics/KPIs%20Summary.md)  
 - 🖼️ [Dashboard Screenshot](https://github.com/mdsamreen414/Excel/blob/main/Bank%20Analytics/Screenshot.png)
 
+----
+🙋‍♀️ **About Me**
+
+I'm *Md Samreen*, a certified *Data Analyst* with strong skills in [**Excel**](https://github.com/mdsamreen414/Excel), [**Power BI**](https://github.com/mdsamreen414/Power-BI), [**MYSQL**](https://github.com/mdsamreen414/MYSQL), and [**Tableau**](https://github.com/mdsamreen414/Tableau).  
+I enjoy turning raw data into insightful dashboards and visual stories.  
+This project demonstrates my ability to clean, analyze, and present restaurant data effectively using Excel
+
+📍 Hyderabad, India    
+🌐 [Portfolio Website](https://samreenmd414.carrd.co/)
 
